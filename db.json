@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "groupName": "第一组",
+      "members": [
+        {
+          "name": "殷雅斯",
+          "gender": "女",
+          "class": "人工智能二班",
+          "hobbies": ["篮球", "看电影"]
+        },
+        {
+          "name": "赵森",
+          "gender": "男",
+          "class": "软件一班",
+          "hobbies": ["唱歌", "旅游"]
+        },
+        {
+          "name": "张汇金",
+          "gender": "男",
+          "class": "计科一班",
+          "hobbies": ["编程", "阅读"]
+        },
+        {
+          "name": "杨荣",
+          "gender": "女",
+          "class": "软工一班",
+          "hobbies": ["跳舞", "美食"]
+        }
+      ]
+    },
+    {
+      "groupName": "第二组",
+      "members": [
+        {
+          "name": "潘耀",
+          "gender": "男",
+          "class": "软工一班",
+          "hobbies": ["足球", "摄影"]
+        },
+        {
+          "name": "常湘乐",
+          "gender": "男",
+          "class": "人工智能二班",
+          "hobbies": ["绘画", "旅行"]
+        },
+        {
+          "name": "张洋",
+          "gender": "男",
+          "class": "软工一班",
+          "hobbies": ["游泳", "看书"]
+        },
+        {
+          "name": "武言霖",
+          "gender": "男",
+          "class": "物联网二班",
+          "hobbies": ["瑜伽", "写作"]
+        }，
+         {
+          "name": "彭超宇",
+          "gender": "男",
+          "class": "软工一班",
+          "hobbies": ["瑜伽", "写作"]
+        }
+      ]
+    },
+    {
+      "groupName": "第三组",
+      "members": [
+        {
+          "name": "张志豪",
+          "gender": "男",
+          "class": "物联网二班",
+          "hobbies": ["登山", "摄影"]
+        },
+        {
+          "name": "张阳",
+          "gender": "男",
+          "class": "软工一班",
+          "hobbies": ["唱歌", "电影"]
+        },
+        {
+          "name": "李任航",
+          "gender": "男",
+          "class": "软工一班",
+          "hobbies": ["足球", "编程"]
+        },
+        {
+          "name": "毛欣",
+          "gender": "女",
+          "class": "计科一班",
+          "hobbies": ["手工", "旅游"]
+        }
+      ]
+    }
+  ]
+}
